@@ -1,11 +1,11 @@
 ```text
-Dadi Narpati
+Bakiadi Rahmawati
 Jakarta, Indonesia | he/him
 ```
 
-I'm a developer based in **Jakarta, Indonesia**. software dev. React by day, TypeScript by night.
+I'm a developer based in **Jakarta, Indonesia**. dev from jakarta 🇮🇩
 
-- 🔭 Currently working at **PT Traveloka Indonesia**
+- 🔭 Currently working at **PT CloudFirst Indonesia**
 - 🌱 Actively learning **GraphQL** & **React**
 - 💬 Ask me about **Node.js** or **software architecture**
 
@@ -13,4 +13,4 @@ I'm a developer based in **Jakarta, Indonesia**. software dev. React by day, Typ
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkmns581&show_icons=true&theme=radical&hide_border=true)
 
-Reach me: [Twitter / X](https://twitter.com/dadi96) · [LinkedIn](https://linkedin.com/in/dadi-narpati-63) · [Insta](https://instagram.com/dadi.narpati) · [Personal Site](https://dadi.narpati.me)
+Reach me: [YouTube](https://youtube.com/@BakiadiRahmawati) · [Mastodon](https://mastodon.social/@bakiadi_rahmawati) · [Personal Site](https://bakiadi-rahmawati.site)
